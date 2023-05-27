@@ -28,7 +28,7 @@
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 3 files that are necessary to run the code succesfully.
+1. In this simple GitHub Repository, I uploaded 3 files that are necessary to run the code sucessfully.
 2. Make sure to download the "T4_Experimentando_con_Datos_Faltantes.py", it'll show the full explanation, source code and graphs.
 3. I'll recommend you for simplicity, open the .py file and run it on Google Colab, that way you’ll only need to upload the 2 images, and run everything.
 4. Download or use two .png images of your selection, I used the “BIRD.png” and “CHURCH.png” images.
