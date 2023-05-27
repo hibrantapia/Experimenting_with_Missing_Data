@@ -1,6 +1,6 @@
 # Experimenting with Missing Data
 
-#### College Project - Make sure to read the PDF article "T1_Indices_de_Contaminacion.pdf".
+#### College Project - Make sure to read the PDF article "T4_Experimentando_con_Datos_Faltantes.pdf".
 
 <h3 align="center">Original</h3>
 <p align="center"> <img src = "/Graphs/original.png" width = 850> </p>
