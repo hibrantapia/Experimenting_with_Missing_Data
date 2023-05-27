@@ -28,10 +28,10 @@
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 5 files. 
-2. Make sure to download the "T1_Indices_de_Contaminacion.py", it'll show the full explanation, source code and graphs.
-3. I'll recommend you for simplicity, open the .py file and run it on Google Colab, that way you’ll only need to upload the 4 databases, and run everything.
-4. Download the four .csv databases provided also on this repo, “indice_2019.csv”, “indice_2020.csv”, “indice_2021.csv” and “indice_2022.csv”.
+1. In this simple GitHub Repository, I uploaded 3 files that are necessary to run the code succesfully.
+2. Make sure to download the "T4_Experimentando_con_Datos_Faltantes.py", it'll show the full explanation, source code and graphs.
+3. I'll recommend you for simplicity, open the .py file and run it on Google Colab, that way you’ll only need to upload the 2 images, and run everything.
+4. Download or use two .png images of your selection, I used the “BIRD.png” and “CHURCH.png” images.
 5. Upload them to Google Colab, copy and paste everything (by chunks as explained on the .py file) and click on “Run all”.
 6. That’s it!
 
