@@ -8,22 +8,22 @@
 <h3 align="center">Grayscale</h3>
 <p align="center"> <img src = "/Extra_Stuff/output_2.png" width = 850> </p>
 
-<h3 align="center">Triangular Kernel</h3>
+<h3 align="center">Losing Data</h3>
 <p align="center"> <img src = "/Extra_Stuff/output_3.png" width = 850> </p>
 
-<h3 align="center">Losing Data</h3>
+<h3 align="center">Covering the lost data with 0s</h3>
 <p align="center"> <img src = "/Extra_Stuff/output_4.png" width = 850> </p>
 
-<h3 align="center">Covering the lost data with 0s</h3>
+<h3 align="center">Covering the lost data with the mean</h3>
 <p align="center"> <img src = "/Extra_Stuff/output_5.png" width = 850> </p>
 
-<h3 align="center">Covering the lost data with the mean</h3>
+<h3 align="center">Covering the lost data with the median</h3>
 <p align="center"> <img src = "/Extra_Stuff/output_6.png" width = 850> </p>
 
-<h3 align="center">Covering the lost data with the median</h3>
+<h3 align="center">Interpolations</h3>
 <p align="center"> <img src = "/Extra_Stuff/output_7.png" width = 850> </p>
 
-<h3 align="center">Covering the lost data with the median</h3>
+<h3 align="center">Histograms</h3>
 <p align="center"> <img src = "/Extra_Stuff/output_8.png" width = 850> </p>
 
 <h2 align="left">Recipe</h2>
